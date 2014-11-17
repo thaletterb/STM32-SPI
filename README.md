@@ -6,3 +6,8 @@ Hardware:
 STM32VL discovery board
 Saleae 4 logic analyzer
 
+Source:
+main.c 
+spi.c
+
+
